@@ -3,10 +3,11 @@ import { Global } from '@emotion/react';
 import { css } from 'theme-ui';
 import { Themed } from '@theme-ui/mdx';
 
-// import Seo
+import Seo from './Seo';
 
 const Layout = ({ children, className }) => (
   <Themed.root>
+    <Seo />
     <Global
       styles={css({
         '*': {

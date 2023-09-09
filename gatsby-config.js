@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
     siteTitle: 'Personal web site',
-    siteTitleAlt: 'Personal web site - Workshop Gatsby',
-    siteHeadline: 'Personal web site - Workshop Gatsby',
+    siteTitleAlt: 'Personal Portafolio',
+    siteHeadline: 'Personal Portafolio',
     siteUrl: 'https://your-url.com',
     siteDescription:
       'Playful and Colorful One-Page portfolio featuring Parallax effects and animations',
     siteLanguage: 'en',
     siteImage: '/banner.jpg',
-    author: 'MakeItReal Students',
+    author: 'Michael Gonzalez',
     basePath: '/',
   },
   plugins: [

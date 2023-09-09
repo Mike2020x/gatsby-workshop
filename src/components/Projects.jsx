@@ -7,7 +7,7 @@ import Content from '../elements/content';
 import Icon from './Svg';
 import { UpDown, UpDownWide } from '../styles/animations';
 
-// import Projects MDX
+import ProjectsMDX from "../sections/projects.mdx"
 
 const Projects = ({ offset }) => (
   <div>
@@ -28,7 +28,7 @@ const Projects = ({ offset }) => (
             h2: { gridColumn: `-1/1`, color: `white !important` },
           }}
         >
-          {/* Projects component MDX */}
+          <ProjectsMDX />
         </div>
       </Inner>
     </Content>

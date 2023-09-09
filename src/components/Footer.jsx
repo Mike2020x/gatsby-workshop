@@ -53,9 +53,9 @@ const Footer = () => {
         {` `}
         <Themed.a
           aria-label="Link to the workshop author's website"
-          href="https://www.khriztianmoreno.dev"
+          href="https://www.linkedin.com/in/michael-steven-gonzalez-5a6518122/"
         >
-          @khriztianmoreno
+          @Mike2020x
         </Themed.a>
       </Flex>
     </footer>
