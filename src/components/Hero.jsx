@@ -3,7 +3,7 @@ import { jsx } from 'theme-ui';
 
 import Inner from '../elements/Inner';
 import Content from '../elements/Content';
-import ShapesHero from './shapes/hero';
+import ShapesHero from './shapes/Hero';
 
 import Intro from "../sections/intro.mdx"
 
