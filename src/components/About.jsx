@@ -1,7 +1,7 @@
 import React from 'react';
 
-import Inner from '../elements/inner';
-import Content from '../elements/content';
+import Inner from '../elements/Inner';
+import Content from '../elements/Content';
 import ShapesAbout from './shapes/about';
 
 import AboutMDX from "../sections/about.mdx";
